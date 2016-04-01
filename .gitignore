@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.directory
+
+# Project Related
+src/resources.h
+src/secrets.h
